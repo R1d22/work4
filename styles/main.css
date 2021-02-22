@@ -74,6 +74,7 @@
 .container-1 {
 	display: flex;
 	justify-content: space-between;
+	align-content: space-between
 }
 
 .img-rest {
@@ -115,9 +116,7 @@
 	width: 100px;
 	position: relative;
 }
-.container-3 {
-	display: flex;
-	flex-wrap: wrap;
-	justify-content: space-around;
-
+.top-right {
+	position: relative;
+	
 }
